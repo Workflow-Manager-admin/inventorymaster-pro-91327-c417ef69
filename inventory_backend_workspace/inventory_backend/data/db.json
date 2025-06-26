@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "adminpass",
+      "role": "Admin",
+      "name": "System Admin"
+    }
+  ],
+  "items": [],
+  "suppliers": [],
+  "categories": [],
+  "sessions": []
+}

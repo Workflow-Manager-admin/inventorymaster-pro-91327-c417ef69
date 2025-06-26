@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> HOST=<host> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/inventorymaster-pro-91327-c417ef69/inventory_frontend_workspace/inventory_frontend"
+}

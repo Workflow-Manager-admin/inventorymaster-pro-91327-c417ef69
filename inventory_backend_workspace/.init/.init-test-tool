@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/inventorymaster-pro-91327-c417ef69/inventory_backend_workspace/inventory_backend"
+}
